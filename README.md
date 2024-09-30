@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Plix
+- 🌱 I’m currently learning CyberSecurity and C
+- 😄 Pronouns: He/Him
